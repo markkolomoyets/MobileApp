@@ -20,6 +20,7 @@
         android:layout_width="67dp"
         android:layout_height="30dp"
         android:text="Text"
+        android:textColor="#F60D0D"
         tools:layout_editor_absoluteX="172dp"
         tools:layout_editor_absoluteY="297dp" />
 
